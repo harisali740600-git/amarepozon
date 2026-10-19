@@ -237,7 +237,7 @@ ul a {
     height: 70px;
     display: flex;
     justify-content: center;
-    align-item: center;
+    align-items: center;
 }
 
 .logo {
